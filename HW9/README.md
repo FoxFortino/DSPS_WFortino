@@ -14,3 +14,8 @@ Actually using DeepDream was easy (with all of the provided code, haha!)
 
 ### What is one new thing you learned?
 Was really fascinating seeing the DeepDream layers operate on random noise. I would like to try it out on some other basic images too.
+
+
+![Original Image](hw9_original.jpg)
+
+![DeepDream Image](hw9_deepdream.png)
